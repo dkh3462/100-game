@@ -1,8 +1,4 @@
-# File: CS112_A1_T2_Game1_20230134.py
 # purpose: Two players start from 0 and alternatively add a number from 1 to 10 to the sum the player who reaches 100 wins.
-# Author: Dima Khaled Allam Mohamed ديمه خالد علام محمد
-# ID: 20230134
-
 def game():
     # set sum to zero
     sum = 0
